@@ -69,14 +69,14 @@ A deployed food web application built with JavaScript.
 - **Live Demo:** [Open Eatly](https://eatly-food.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/harshavardhan2025/Eatly)
 
-### 🔎 Smart Service Finder
+### 🛠️ Smart Service Finder
 
 A platform designed to connect users with local service providers through personalized recommendations.
 
 - **Live Demo:** [Open Workzy](https://smart-service-finder-g36f.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/harshavardhan2025/Smart-Service-Finder)
 
-### 💻 DSA Problem Solving
+### 🕸️ DSA Problem Solving
 
 C++ solutions for algorithmic problems and competitive programming practice.
 
