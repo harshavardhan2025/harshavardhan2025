@@ -1,16 +1,20 @@
-# Hi, I'm Harsha Vardhan 👋
 
-<p align="center">
-  <img src="./profile-banner.png" alt="Harsha Vardhan — Software Development and Competitive Programming" width="100%" />
-</p>
+<!-- ===================================================== -->
+<!--                 HARsha VARDHAN PROFILE                 -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <b>C++ Competitive Programmer | DSA Enthusiast | Aspiring Software Engineer</b>
-  <br/>
-  Building solutions, designing systems, and creating useful applications.
-</p>
+<div align="center">
 
-<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Harsha Vardhan - Software Development and Competitive Programming Banner"/>
+
+  <h1>Harsha Vardhan</h1>
+
+  <h3>C++ Competitive Programmer | DSA | Software Development</h3>
+
+  <p>
+    Building efficient solutions, designing systems, and developing practical applications.
+  </p>
+
   <a href="https://github.com/harshavardhan2025">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -20,21 +24,24 @@
   <a href="https://www.linkedin.com/in/krishnam-harsha-vardhan-413901333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
 
-## 👨‍💻 About Me
+</div>
 
-I'm a Computer Science Engineering student at Aditya University with an interest in algorithms, competitive programming, system design, and software development.
+---
 
-- 💻 Primarily practice problem-solving using C++.
-- 🧠 Strengthening Data Structures and Algorithms and algorithmic thinking.
-- 🏆 Participating in competitive programming and coding practice.
-- 🌐 Building and deploying practical web applications.
-- 🏗️ Exploring system design, architecture patterns, and scalable systems.
-- 🤖 Interested in Python, AI/ML, and NLP.
-- 🎯 Goal: Become a skilled software engineer who builds efficient, reliable, and impactful applications.
+## About Me
 
-## 🛠️ Technical Skills
+I'm a Computer Science Engineering student at **Aditya University**, interested in algorithms, competitive programming, system design, and software engineering.
+
+- 💻 Primary problem-solving language: **C++**
+- 🧠 Practicing Data Structures and Algorithms.
+- 🏆 Improving algorithmic thinking through coding challenges.
+- 🌐 Building and deploying web applications.
+- 🏗️ Exploring system design, architecture patterns, and scalability.
+- 🤖 Learning Python and exploring AI/ML and NLP.
+- 🎯 Working towards becoming a well-rounded software engineer.
+
+## Technical Skills
 
 **Programming Languages**
 
@@ -44,7 +51,7 @@ I'm a Computer Science Engineering student at Aditya University with an interest
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 **Web Development and Databases**
@@ -69,94 +76,138 @@ I'm a Computer Science Engineering student at Aditya University with an interest
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-## 🧩 Competitive Programming & DSA
+## Competitive Programming
 
-My problem-solving practice focuses on:
+<p align="center">
+  <a href="https://leetcode.com/u/harshav999/">
+    <img src="https://img.shields.io/badge/LeetCode-harshav999-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
+</p>
+
+My DSA practice includes:
 
 - Arrays, strings, hashing, and prefix sums
 - Sorting, binary search, two pointers, and sliding window
 - Recursion and backtracking
 - Greedy algorithms and bit manipulation
 - Linked lists, stacks, queues, trees, and graphs
-- Dynamic programming and time complexity analysis
+- Dynamic programming and complexity analysis
 
-**Coding Profiles**
+## Featured Projects
 
-- 💻 [LeetCode — harshav999](https://leetcode.com/u/harshav999/)
-- 🏅 [CodeChef](https://www.codechef.com/) — 2-star coder
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### Eatly
 
-### 🍽️ Eatly — Food Web Application
+A deployed food web application.
 
-A deployed web application showcasing my experience in web development and building user-facing applications.
+**Technology:** JavaScript
 
-- **Live Demo:** [Open Eatly](https://eatly-food.vercel.app/)
-- **Source Code:** [GitHub Repository](https://github.com/harshavardhan2025/Eatly)
-- **Technology:** JavaScript
+<a href="https://eatly-food.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2563EB?style=for-the-badge" alt="Eatly Live Demo"/>
+</a>
 
-### 🔎 Smart Service Finder — Service Discovery Platform
+<br/><br/>
 
-An application designed to connect users with local service providers through personalized recommendations and service discovery.
+<a href="https://github.com/harshavardhan2025/Eatly">View Source Code →</a>
 
-- **Live Demo:** [Open Smart Service Finder](https://smart-service-finder-g36f.vercel.app/)
-- **Source Code:** [GitHub Repository](https://github.com/harshavardhan2025/Smart-Service-Finder)
-- **Technology:** JavaScript
+</td>
+<td width="50%" valign="top">
 
-### 🧠 DSA Problem Solving
+### Smart Service Finder
 
-A collection of C++ solutions for practicing algorithms and improving problem-solving skills.
+A platform for discovering local service providers with personalized recommendations.
 
-- **Repository:** [DSA Problem Solving](https://github.com/harshavardhan2025/DSA_problem_sloving)
-- **Technology:** C++
+**Technology:** JavaScript
 
-### 🏗️ System Design
+<a href="https://smart-service-finder-g36f.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2563EB?style=for-the-badge" alt="Smart Service Finder Live Demo"/>
+</a>
 
-A practical collection of system design concepts, architecture patterns, scalability techniques, and real-world case studies.
+<br/><br/>
 
-- **Repository:** [System Design](https://github.com/harshavardhan2025/System-Design)
+<a href="https://github.com/harshavardhan2025/Smart-Service-Finder">View Source Code →</a>
 
-### 🎓 Attendance Management System
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### DSA Problem Solving
+
+A collection of C++ solutions for algorithmic practice and competitive programming.
+
+<a href="https://github.com/harshavardhan2025/DSA_problem_sloving">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### System Design
+
+System design concepts, architecture patterns, scalability techniques, and case studies.
+
+<a href="https://github.com/harshavardhan2025/System-Design">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Attendance Management System
 
 A Java-based attendance management application using JDBC and MySQL.
 
-- **Repository:** [Attendance Management System](https://github.com/harshavardhan2025/Attendance-Management-System)
-- **Technology:** Java, JDBC, MySQL
+<a href="https://github.com/harshavardhan2025/Attendance-Management-System">View Repository →</a>
 
-### 📅 College Event Management
+</td>
+<td width="50%" valign="top">
 
-A project focused on college event management and related application workflows.
+### College Event Management
 
-- **Repository:** [College Event Management](https://github.com/harshavardhan2025/COLLEGE_EVENT_MANAGEMENT)
-- **Technology:** JavaScript
+A JavaScript project focused on college event management workflows.
 
-## 📊 GitHub Statistics
+<a href="https://github.com/harshavardhan2025/COLLEGE_EVENT_MANAGEMENT">View Repository →</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan2025&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Statistics" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan2025&layout=compact&hide_border=true" alt="Most Used Languages" width="49%"/>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
+## GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshavardhan2025&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan2025&layout=compact&hide_border=true" alt="Most Used Languages"/>
+
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com?user=harshavardhan2025&hide_border=true" alt="GitHub Contribution Streak" width="70%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan2025&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
-</p>
+  <br/><br/>
 
-## 🎯 Current Goals
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan2025&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
-- Improve DSA and competitive programming skills.
-- Strengthen algorithm design and complexity analysis.
-- Learn scalable software architecture and system design.
-- Build and deploy more useful applications.
-- Expand my knowledge of Python and AI/ML.
-- Contribute to open-source projects and collaborate with developers.
+</div>
 
-## 🤝 Connect With Me
+## Current Focus
 
-<p align="center">
+- Strengthening advanced DSA and competitive programming.
+- Improving algorithm design and time complexity analysis.
+- Learning system design and scalable application architecture.
+- Building and deploying real-world software projects.
+- Expanding Python and AI/ML knowledge.
+- Contributing to open-source projects.
+
+## Connect With Me
+
+<div align="center">
+
   <a href="https://github.com/harshavardhan2025">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -166,10 +217,9 @@ A project focused on college event management and related application workflows.
   <a href="https://www.linkedin.com/in/krishnam-harsha-vardhan-413901333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
 
-<p align="center">
-  <i>Consistent learning. Thoughtful engineering. Continuous improvement.</i>
   <br/><br/>
-  ⭐ Thanks for visiting my profile!
-</p>
+
+  <i>Consistent learning. Thoughtful engineering. Continuous improvement.</i>
+
+</div>
