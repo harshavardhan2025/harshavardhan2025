@@ -73,7 +73,7 @@ A deployed food web application built with JavaScript.
 
 A platform designed to connect users with local service providers through personalized recommendations.
 
-- **Live Demo:** [Open Smart Service Finder](https://smart-service-finder-g36f.vercel.app/)
+- **Live Demo:** [Open Workzy](https://smart-service-finder-g36f.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/harshavardhan2025/Smart-Service-Finder)
 
 ### 💻 DSA Problem Solving
